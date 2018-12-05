@@ -1,4 +1,5 @@
 Text adventure alpha!
+  compatible with python 3
 
 Overview of what the different files do:
 world/ folder is to save in-game data
